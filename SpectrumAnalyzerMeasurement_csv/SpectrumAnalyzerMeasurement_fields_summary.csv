@@ -1,0 +1,25 @@
+field,shape,dtype,size,min,max
+att_conversion,"(1, 1)",float64,1,-73.84397997753022,-73.84397997753022
+att,"(1, 1)",uint8,1,40.0,40.0
+att_corrected,"(1, 1)",uint8,1,29.0,29.0
+Pvna,"(1, 1)",int16,1,-45.0,-45.0
+Pvna_corrected,"(1, 1)",float64,1,-44.843979977530225,-44.843979977530225
+qubit_f,"(1, 1)",float64,1,7893578413.0,7893578413.0
+saFreqSpanHz,"(1, 1)",int32,1,2000000.0,2000000.0
+saNumAvg,"(1, 1)",uint8,1,100.0,100.0
+saResBW,"(1, 1)",uint16,1,10000.0,10000.0
+frequency,"(1, 401)",float64,401,7892578413.0,7894578413.0
+SANoiseTrace,"(1, 401)",float64,401,9.97241e-14,1.66648e-13
+HEMTNoiseTrace,"(1, 401)",float64,401,1.65501e-13,2.76439e-13
+JPANoiseTrace,"(1, 401)",float64,401,4.83281e-13,9.07194e-13
+SANoiseLevel,"(1, 1)",float64,1,1.66648e-13,1.66648e-13
+HEMTNoiseLevel,"(1, 1)",float64,1,2.76439e-13,2.76439e-13
+JPANoiseLevel,"(1, 1)",float64,1,9.07194e-13,9.07194e-13
+HEMT_VNATrace,"(1, 401)",float64,401,2.90737e-13,3.45462e-12
+JPA_VNATrace,"(1, 401)",float64,401,8.25087e-13,8.9043e-11
+HEMT_VNAPeakLevel,"(1, 1)",float64,1,3.45462e-12,3.45462e-12
+JPA_VNAPeakLevel,"(1, 1)",float64,1,8.9043e-11,8.9043e-11
+HEMT_LOTrace,"(1, 401)",float64,401,3.00469e-13,3.03879e-12
+JPA_LOTrace,"(1, 401)",float64,401,8.11521e-13,8.26609e-11
+HEMT_LOPeakLevel,"(1, 1)",float64,1,3.03879e-12,3.03879e-12
+JPA_LOPeakLevel,"(1, 1)",float64,1,8.26609e-11,8.26609e-11
