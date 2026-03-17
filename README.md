@@ -23,8 +23,4 @@ Official license:
 <https://creativecommons.org/licenses/by/4.0/>
 
 ## Required Citation
-
-If you use this dataset, please cite the original dataset record:
-
-```text
-Labranca, Danilo (2025), “High-fidelity reconstruction of single-photon emission with a wQED device based on a transmon qubit”, Mendeley Data, V1, doi: 10.17632/vzs49gddsm.1
+<Upcoming Paper >
